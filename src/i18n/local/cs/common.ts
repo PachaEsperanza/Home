@@ -52,7 +52,7 @@ const cs = {
 
   // Process
   process_eyebrow: 'Příběh za každou sklizní',
-  process_title: 'Od farmy na',
+  process_title: 'Více než',
   process_step_label: 'Krok {{n}}',
 
   // Contact
@@ -126,7 +126,7 @@ const cs = {
   contact_title_highlight: 'farmu',
 
   // ProcessSection
-  process_title_highlight: 'váš stůl',
+  process_title_highlight: 'řemeslné výrobky',
 
   // SiteFooter products
   footer_product_1: 'Caturra z Cusca',

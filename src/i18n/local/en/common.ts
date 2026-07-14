@@ -52,7 +52,7 @@ const en = {
 
   // Process
   process_eyebrow: 'The story behind every harvest',
-  process_title: 'From the farm to',
+  process_title: 'More than',
   process_step_label: 'Step {{n}}',
 
   // Contact
@@ -126,7 +126,7 @@ const en = {
   contact_title_highlight: 'Farm',
 
   // ProcessSection
-  process_title_highlight: 'your table',
+  process_title_highlight: 'crafts',
 
   // SiteFooter products
   footer_product_1: 'Caturra from Cusco',

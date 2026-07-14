@@ -170,7 +170,7 @@ export const processSteps = [
     subtitle: 'Recursos naturales de altura',
     desc: 'Materiales seleccionados a mano en altitudes de 1,200-1,800m en los valles del Cusco.',
     tags: ['Artesanías', '1,200-1,800m'],
-    image: '/Home/images/segundo-work.jpeg',
+    image: '/Home/images/telar.png',
     color: '#c9a96e',
   },
   {
@@ -180,7 +180,7 @@ export const processSteps = [
     subtitle: 'Trabajo a mano',
     desc: 'Elaboración manual y selectiva por nuestros artesanos. Solo piezas que cumplen el más alto estándar de calidad.',
     tags: ['100% Manual', 'Selectiva'],
-    image: '/Home/images/rosa-work.jpeg',
+    image: '/Home/images/producto1.jpeg',
     color: '#a07850',
   },
   {
@@ -190,17 +190,17 @@ export const processSteps = [
     subtitle: 'Proceso artesanal',
     desc: 'Proceso artesanal de 24 a 72 horas de dedicación y detalle. El tiempo y la paciencia perfeccionan cada pieza.',
     tags: ['24-72 horas', 'Artesanal'],
-    image: '/Home/images/carmen-work.jpeg',
+    image: '/Home/images/lana.jpg',
     color: '#d4a853',
   },
   {
     n: '04',
     icon: 'ri-sun-line',
-    title: 'Secado',
+    title: 'Detalle',
     subtitle: 'Sol andino',
     desc: 'Secado y curado natural al sol andino. Sin procesos artificiales que alteren la calidad de la pieza.',
     tags: ['Solar', 'Proceso natural'],
-    image: '/Home/images/family-segundo.jpeg',
+    image: '/Home/images/mano.png',
     color: '#8b6340',
   },
 ];

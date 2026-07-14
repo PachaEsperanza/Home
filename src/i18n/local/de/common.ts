@@ -52,7 +52,7 @@ const de = {
 
   // Process
   process_eyebrow: 'Die Geschichte hinter jeder Ernte',
-  process_title: 'Vom Feld auf',
+  process_title: 'Mehr als',
   process_step_label: 'Schritt {{n}}',
 
   // Contact
@@ -126,7 +126,7 @@ const de = {
   contact_title_highlight: 'Kaffeefarm',
 
   // ProcessSection
-  process_title_highlight: 'deinen Tisch',
+  process_title_highlight: 'Kunsthandwerk',
 
   // SiteFooter products
   footer_product_1: 'Caturra aus Cusco',

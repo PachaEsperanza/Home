@@ -52,7 +52,7 @@ const es = {
 
   // Process
   process_eyebrow: 'La historia detrás de cada cosecha',
-  process_title: 'De la parcela a',
+  process_title: 'Más que',
   process_step_label: 'Paso {{n}}',
 
   // Contact
@@ -126,7 +126,7 @@ const es = {
   contact_title_highlight: 'Cafetal',
 
   // ProcessSection
-  process_title_highlight: 'tu mesa',
+  process_title_highlight: 'artesanías',
 
   // SiteFooter products
   footer_product_1: 'Caturra del Cusco',
