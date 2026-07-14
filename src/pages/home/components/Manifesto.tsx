@@ -195,7 +195,7 @@ const Manifesto = () => {
         <div className="flex flex-col gap-4 lg:justify-center lg:h-full">
           <div className="rounded-2xl overflow-hidden w-full" style={{ border: '1px solid rgba(201,168,76,0.2)' }}>
             <img
-              src="/Home/images/imagen1.png"
+              src="/Home/images/producto2.jpeg"
               alt="CompartoTuEsperanza"
               className="w-full h-full object-cover"
               style={{ minHeight: '360px', maxHeight: '480px', width: '100%', objectFit: 'cover' }}

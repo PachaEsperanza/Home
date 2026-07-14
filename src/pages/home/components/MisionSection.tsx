@@ -2,8 +2,8 @@ import { useState, useEffect, useRef } from 'react';
 import { useTranslation } from 'react-i18next';
 
 const IMAGES = [
-  '/Home/images/mision1.png',
-  '/Home/images/mision2.png',
+  '/Home/images/mision1.jpeg',
+  '/Home/images/mision2.jpeg',
 ];
 
 const AUTOPLAY_MS = 9000;
