@@ -190,7 +190,7 @@ export const processSteps = [
     subtitle: 'Proceso artesanal',
     desc: 'Proceso artesanal de 24 a 72 horas de dedicación y detalle. El tiempo y la paciencia perfeccionan cada pieza.',
     tags: ['24-72 horas', 'Artesanal'],
-    image: '/Home/images/lana.jpg',
+    image: '/Home/images/lana.png',
     color: '#d4a853',
   },
   {
